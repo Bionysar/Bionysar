@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Rémi Vauzelas, student in a french engineering school named Efrei Paris.
-- 👀 I’m interested in the domain of Big Data and Machine Learning
-- 🌱 I’m currently learning differents technologies used for Big Data Management and Machine Learning systems, to build a portfolio for my future jobs
+
